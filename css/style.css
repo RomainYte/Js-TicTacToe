@@ -1,0 +1,14 @@
+.global {
+  background-image:url(../ressources/flamorbak.jpg);
+  background-repeat: no-repeat;
+  height: 1024px;
+  width: 100%;
+}
+
+.cpafo {
+  height: 800px;
+  width: 800px;
+  border: 10px solid green;
+  margin:  auto;
+
+}
